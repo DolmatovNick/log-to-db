@@ -1,0 +1,5 @@
+192.168.0.1|Chrome|Windows 11
+192.168.0.2|Firefox|Windows 11
+192.168.0.3|Firefox Mozilla|Linux Debian 12
+192.168.0.4|Grammar dos\CT|Linux Debian 12
+192.168.0.5|Grammar dos\CT|Linux Debian 12
